@@ -1,0 +1,205 @@
+hey i have a 47GB csv dataset which have 80 columns and it is in df and in these are the code blcks that  i already ran
+
+# --- 1. LIBRARIES ---
+import os
+import random
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Machine Learning & Scaling
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import MinMaxScaler
+from sklearn.metrics import (classification_report, confusion_matrix, 
+                             accuracy_score, roc_curve, auc)
+
+# Deep Learning (TensorFlow/Keras)
+import tensorflow as tf
+from tensorflow.keras import Model, Input
+from tensorflow.keras.layers import (Dense, Conv1D, BatchNormalization, 
+                                     concatenate, Flatten, Dropout, Attention, 
+                                     Reshape, GlobalAveragePooling1D, Multiply, MaxPooling1D)
+from tensorflow.keras.callbacks import EarlyStopping, ReduceLROnPlateau
+# --- 2. REPRODUCIBILITY (The "Same Result" Rule) ---
+def set_seeds(seed=42):
+    os.environ['PYTHONHASHSEED'] = str(seed)
+    os.environ['TF_DETERMINISTIC_OPS'] = '1'
+    os.environ['TF_CUDNN_DETERMINISTIC'] = '1'
+    random.seed(seed)
+    np.random.seed(seed)
+    tf.random.set_seed(seed)
+    tf.keras.utils.set_random_seed(seed)
+    print(f"Environment seeds locked at {seed}")
+
+set_seeds(42) 
+
+# Load the specific binary dataset
+df = pd.read_csv("CombinedBoTIoT_&_CIC2019.csv", engine="pyarrow")
+
+# Verify the load by checking the total rows and columns
+print(f"Dataset successfully loaded.")
+print(f"Total Rows: {df.shape[0]}")
+print(f"Total Columns: {df.shape[1]}")
+# 1. Strip any leading/trailing whitespace and convert to lowercase
+df.columns = df.columns.str.strip().str.lower()
+
+# 2. Replace spaces, slashes, and dots with underscores for easy coding
+df.columns = df.columns.str.replace(' ', '_', regex=False)
+df.columns = df.columns.str.replace('/', '_', regex=False)
+df.columns = df.columns.str.replace('.', '_', regex=False)
+
+# 3. Print the first 10 columns to verify the change
+print("First 10 standardized columns:")
+print(df.columns[:10].tolist())
+
+# 4. Find the exact name of your Label column
+label_col = [col for col in df.columns if 'label' in col]
+print(f"\nLabel column found: {label_col}")
+
+# List of columns that are not useful for training features
+identifiers = ['flow_id', 'src_ip', 'dst_ip', 'timestamp']
+
+# Drop them only if they exist in the current dataframe
+df.drop(columns=[col for col in identifiers if col in df.columns], inplace=True)
+
+print(f"Identifiers removed.")
+print(f"Remaining columns: {df.shape[1]}")
+
+# ==========================================================
+import joblib
+import gc
+import numpy as np
+
+print("Loading Pre-trained Regression Imputer...")
+
+# 1. Replace all Inf with NaN
+df.replace([np.inf, -np.inf], np.nan, inplace=True)
+
+# 2. Load the saved models and column lists
+imputer_data = joblib.load("regression_imputer.pkl")
+imputer_models = imputer_data['models']
+COLS_WONA = imputer_data['cols_wona']
+COLS_WNA = imputer_data['cols_wna']
+
+chunk_size = 5_000_000
+
+# 3. Predict and Fill NaNs in chunks (No training, just inference)
+for target_col in COLS_WNA:
+    if target_col in imputer_models:
+        print(f"Applying predictions for: {target_col}")
+        model = imputer_models[target_col]
+        predict_idx = df.index[df[target_col].isna()]
+        
+        for i in range(0, len(predict_idx), chunk_size):
+            idx_chunk = predict_idx[i : i + chunk_size]
+            X_pred_chunk = df.loc[idx_chunk, COLS_WONA].values
+            
+            # Predict and assign
+            preds = model.predict(X_pred_chunk)
+            df.loc[idx_chunk, target_col] = preds
+            
+            del X_pred_chunk, preds
+            
+    # Force memory cleanup after each column
+    gc.collect()
+
+print(f"Imputation Complete. Total NaN remaining: {df.isna().sum().sum()}")
+# ==========================================================
+
+untill here there was no error, then i ran this code block 
+# Check how many duplicates exist
+num_duplicates = df.duplicated().sum()
+print(f"Number of duplicate rows: {num_duplicates}")
+
+# Drop duplicates if any
+df = df.drop_duplicates().reset_index(drop=True)
+print(f"Data shape after dropping duplicates: {df.shape}")
+
+and got this error
+
+Number of duplicate rows: 2301318
+---------------------------------------------------------------------------
+MemoryError                               Traceback (most recent call last)
+Cell In[9], line 6
+      3 print(f"Number of duplicate rows: {num_duplicates}")
+      5 # Drop duplicates if any
+----> 6 df = df.drop_duplicates().reset_index(drop=True)
+      7 print(f"Data shape after dropping duplicates: {df.shape}")
+
+File ~\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\frame.py:6439, in DataFrame.reset_index(self, level, drop, inplace, col_level, col_fill, allow_duplicates, names)
+   6437     new_obj = self
+   6438 else:
+-> 6439     new_obj = self.copy(deep=None)
+   6440 if allow_duplicates is not lib.no_default:
+   6441     allow_duplicates = validate_bool_kwarg(allow_duplicates, "allow_duplicates")
+
+File ~\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\generic.py:6833, in NDFrame.copy(self, deep)
+   6684 @final
+   6685 def copy(self, deep: bool_t | None = True) -> Self:
+   6686     """
+   6687     Make a copy of this object's indices and data.
+   6688 
+   (...)   6831     dtype: int64
+   6832     """
+-> 6833     data = self._mgr.copy(deep=deep)
+   6834     self._clear_item_cache()
+   6835     return self._constructor_from_mgr(data, axes=data.axes).__finalize__(
+   6836         self, method="copy"
+   6837     )
+
+File ~\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\internals\managers.py:612, in BaseBlockManager.copy(self, deep)
+    609     else:
+    610         new_axes = list(self.axes)
+--> 612 res = self.apply("copy", deep=deep)
+    613 res.axes = new_axes
+    615 if self.ndim > 1:
+    616     # Avoid needing to re-compute these
+
+File ~\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\internals\managers.py:363, in BaseBlockManager.apply(self, f, align_keys, **kwargs)
+    361         applied = b.apply(f, **kwargs)
+    362     else:
+--> 363         applied = getattr(b, f)(**kwargs)
+    364     result_blocks = extend_blocks(applied, result_blocks)
+    366 out = type(self).from_blocks(result_blocks, self.axes)
+
+File ~\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\internals\blocks.py:822, in Block.copy(self, deep)
+    820 refs: BlockValuesRefs | None
+    821 if deep:
+--> 822     values = values.copy()
+    823     refs = None
+    824 else:
+
+MemoryError: Unable to allocate 59.3 GiB for an array with shape (79, 100833157) and data type float64
+
+
+
+
+
+
+
+
+
+
+
+import gc
+
+# Check how many duplicates exist
+num_duplicates = df.duplicated().sum()
+print(f"Number of duplicate rows: {num_duplicates}")
+
+print("Dropping duplicates (Memory Safe In-Place)...")
+# 1. Drop duplicates IN PLACE (prevents the 60GB copy)
+df.drop_duplicates(inplace=True)
+
+# 2. Force garbage collection to clean up the memory of the dropped rows
+gc.collect()
+
+print("Resetting index...")
+# 3. Reset index IN PLACE 
+df.reset_index(drop=True, inplace=True)
+
+# 4. Final RAM cleanup
+gc.collect()
+
+print(f"Data shape after dropping duplicates: {df.shape}")
