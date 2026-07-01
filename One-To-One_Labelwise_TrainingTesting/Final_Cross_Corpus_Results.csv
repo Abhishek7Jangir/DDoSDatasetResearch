@@ -1,0 +1,15 @@
+Attack_Type,Train_Dataset,Test_Dataset,Benign_Precision,Benign_Recall,Benign_F1,Attack_Precision,Attack_Recall,Attack_F1,Macro_Avg_F1
+DoS_Hulk,CIC-17,CIC-18,0.57,0.97,0.72,0.9,0.25,0.39,0.55
+DoS_Hulk,CIC-18,CIC-17,0.57,1,0.73,0.98,0.25,0.4,0.56
+Botnet,CIC-17,CIC-18,0.5,1,0.67,0.96,0,0,0.33
+Botnet,CIC-18,CIC-17,0.52,1,0.69,0.99,0.09,0.16,0.42
+DoS_Slowloris,CIC-17,CIC-18,0.99,1,0.99,1,0.99,0.99,0.99
+DoS_Slowloris,CIC-18,CIC-17,0.64,1,0.78,1,0.44,0.61,0.7
+DoS_GoldenEye,CIC-17,CIC-18,0.61,1,0.75,1,0.35,0.52,0.64
+DoS_GoldenEye,CIC-18,CIC-17,0.58,1,0.73,0.98,0.28,0.44,0.58
+DoS_Slowhttptest,CIC-17,CIC-18,0.5,1,0.67,0,0,0,0.33
+DoS_Slowhttptest,CIC-18,CIC-17,0.5,1,0.67,0,0,0,0.33
+FTP_BruteForce,CIC-17,CIC-18,0.5,1,0.67,1,0,0,0.33
+FTP_BruteForce,CIC-18,CIC-17,0.5,1,0.67,0,0,0,0.33
+SSH_BruteForce,CIC-17,CIC-18,0.5,1,0.67,0.67,0,0,0.33
+SSH_BruteForce,CIC-18,CIC-17,0.66,1,0.8,1,0.49,0.66,0.73
