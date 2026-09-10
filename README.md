@@ -3,7 +3,8 @@
  ## Project Structure
 
 ```
-│   README.md
+DDoS-Dataset-Research
+├───README.md
 │
 ├───AnonBooter
 │   │   AE_CIAM_Binary_Final.keras
