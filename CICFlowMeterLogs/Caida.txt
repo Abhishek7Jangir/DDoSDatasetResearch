@@ -1,0 +1,62 @@
+You select: C:\Users\Cloud-2\Documents\Caida
+Out folder: C:\Users\Cloud-2\Documents\Caida
+-------------------------------
+CICFlowMeter found :14 pcap files
+
+
+Working on... C:\Users\Cloud-2\Documents\Caida\ddostrace.20070804_134936.pcap
+Done! Total 7569 flows
+Packets stats: Total=166448,Valid=166448,Discarded=0
+---------------------------------------------------------------------------------------------------------------
+Working on... C:\Users\Cloud-2\Documents\Caida\ddostrace.20070804_135436.pcap
+Done! Total 805 flows
+Packets stats: Total=108674,Valid=108674,Discarded=0
+---------------------------------------------------------------------------------------------------------------
+Working on... C:\Users\Cloud-2\Documents\Caida\ddostrace.20070804_135936.pcap
+Done! Total 3302 flows
+Packets stats: Total=133951,Valid=133951,Discarded=0
+---------------------------------------------------------------------------------------------------------------
+Working on... C:\Users\Cloud-2\Documents\Caida\ddostrace.20070804_140436.pcap
+Done! Total 710 flows
+Packets stats: Total=108783,Valid=108783,Discarded=0
+---------------------------------------------------------------------------------------------------------------
+Working on... C:\Users\Cloud-2\Documents\Caida\ddostrace.20070804_140936.pcap
+Done! Total 632 flows
+Packets stats: Total=111863,Valid=111863,Discarded=0
+---------------------------------------------------------------------------------------------------------------
+Working on... C:\Users\Cloud-2\Documents\Caida\ddostrace.20070804_141436.pcap
+Done! Total 236219 flows
+Packets stats: Total=26760675,Valid=26760675,Discarded=0
+---------------------------------------------------------------------------------------------------------------
+Working on... C:\Users\Cloud-2\Documents\Caida\ddostrace.20070804_141936.pcap
+Done! Total 332780 flows
+Packets stats: Total=50321159,Valid=50321159,Discarded=0
+---------------------------------------------------------------------------------------------------------------
+Working on... C:\Users\Cloud-2\Documents\Caida\ddostrace.20070804_142436.pcap
+Done! Total 323437 flows
+Packets stats: Total=49447211,Valid=49447211,Discarded=0
+---------------------------------------------------------------------------------------------------------------
+Working on... C:\Users\Cloud-2\Documents\Caida\ddostrace.20070804_142936.pcap
+Done! Total 299501 flows
+Packets stats: Total=45954067,Valid=45954067,Discarded=0
+---------------------------------------------------------------------------------------------------------------
+Working on... C:\Users\Cloud-2\Documents\Caida\ddostrace.20070804_143436.pcap
+Done! Total 289824 flows
+Packets stats: Total=44322036,Valid=44322036,Discarded=0
+---------------------------------------------------------------------------------------------------------------
+Working on... C:\Users\Cloud-2\Documents\Caida\ddostrace.20070804_143936.pcap
+Done! Total 287233 flows
+Packets stats: Total=45785752,Valid=45785752,Discarded=0
+---------------------------------------------------------------------------------------------------------------
+Working on... C:\Users\Cloud-2\Documents\Caida\ddostrace.20070804_144436.pcap
+Done! Total 311481 flows
+Packets stats: Total=49567764,Valid=49567764,Discarded=0
+---------------------------------------------------------------------------------------------------------------
+Working on... C:\Users\Cloud-2\Documents\Caida\ddostrace.20070804_144936.pcap
+Done! Total 323097 flows
+Packets stats: Total=49567302,Valid=49567302,Discarded=0
+---------------------------------------------------------------------------------------------------------------
+Working on... C:\Users\Cloud-2\Documents\Caida\ddostrace.20070804_145436.pcap
+Done! Total 55146 flows
+Packets stats: Total=9431735,Valid=9431735,Discarded=0
+---------------------------------------------------------------------------------------------------------------

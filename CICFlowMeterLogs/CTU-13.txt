@@ -1,0 +1,30 @@
+You select: C:\Users\Cloud-2\Documents\CTU-13\botnet-capture-20110815-rbot-dos.pcap\botnet-capture-20110815-rbot-dos.pcap
+Out folder: C:\Users\Cloud-2\Documents\CTU-13\botnet-capture-20110815-rbot-dos.pcap
+-------------------------------
+CICFlowMeter received 1 pcap file
+
+
+Working on... C:\Users\Cloud-2\Documents\CTU-13\botnet-capture-20110815-rbot-dos.pcap\botnet-capture-20110815-rbot-dos.pcap
+Done! Total 223 flows
+Packets stats: Total=256712,Valid=256574,Discarded=138
+---------------------------------------------------------------------------------------------------------------
+You select: C:\Users\Cloud-2\Documents\CTU-13\botnet-capture-20110818-bot.pcap\botnet-capture-20110818-bot.pcap
+Out folder: C:\Users\Cloud-2\Documents\CTU-13\botnet-capture-20110818-bot.pcap
+-------------------------------
+CICFlowMeter received 1 pcap file
+
+
+Working on... C:\Users\Cloud-2\Documents\CTU-13\botnet-capture-20110818-bot.pcap\botnet-capture-20110818-bot.pcap
+Done! Total 5410 flows
+Packets stats: Total=66368774,Valid=66365380,Discarded=3394
+---------------------------------------------------------------------------------------------------------------
+You select: C:\Users\Cloud-2\Documents\CTU-13\botnet-capture-20110818-bot-2.pcap
+Out folder: C:\Users\Cloud-2\Documents\CTU-13\botnet-capture-20110818-bot-2.pcap
+-------------------------------
+CICFlowMeter found :1 pcap files
+
+
+Working on... C:\Users\Cloud-2\Documents\CTU-13\botnet-capture-20110818-bot-2.pcap\botnet-capture-20110818-bot-2.pcap
+Done! Total 274 flows
+Packets stats: Total=3941769,Valid=3941721,Discarded=48
+---------------------------------------------------------------------------------------------------------------

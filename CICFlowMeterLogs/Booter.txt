@@ -1,0 +1,26 @@
+You select: C:\Users\Cloud-2\Documents\Booter
+Out folder: C:\Users\Cloud-2\Documents\Booter
+-------------------------------
+CICFlowMeter received 5 pcap file
+
+
+Working on... C:\Users\Cloud-2\Documents\Booter\anon-Booter1.pcap
+Done! Total 660250 flows
+Packets stats: Total=12947222,Valid=12947222,Discarded=0
+---------------------------------------------------------------------------------------------------------------
+Working on... C:\Users\Cloud-2\Documents\Booter\anon-Booter2.pcap
+Done! Total 395260 flows
+Packets stats: Total=9054436,Valid=9054436,Discarded=0
+---------------------------------------------------------------------------------------------------------------
+Working on... C:\Users\Cloud-2\Documents\Booter\anon-Booter3.pcap
+Done! Total 710838 flows
+Packets stats: Total=13239142,Valid=13239142,Discarded=0
+---------------------------------------------------------------------------------------------------------------
+Working on... C:\Users\Cloud-2\Documents\Booter\anon-Booter5.pcap
+Done! Total 4187 flows
+Packets stats: Total=2167847,Valid=2167847,Discarded=0
+---------------------------------------------------------------------------------------------------------------
+Working on... C:\Users\Cloud-2\Documents\Booter\anon-Booter8.pcap
+Done! Total 523 flows
+Packets stats: Total=5758016,Valid=5758016,Discarded=0
+---------------------------------------------------------------------------------------------------------------

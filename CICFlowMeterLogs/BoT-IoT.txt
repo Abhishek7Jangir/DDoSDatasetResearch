@@ -1,0 +1,619 @@
+You select: E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_HTTP
+Out folder: E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_HTTP\CSVs
+-------------------------------
+CICFlowMeter found :7 pcap files
+
+
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_HTTP\IoT_Dataset_HTTP_DDoS__00001_20180604190104.pcap
+Done! Total 17802 flows
+Packets stats: Total=357961,Valid=357910,Discarded=51
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_HTTP\IoT_Dataset_HTTP_DDoS__00002_20180604190817.pcap
+Done! Total 10757 flows
+Packets stats: Total=328374,Valid=328344,Discarded=30
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_HTTP\IoT_Dataset_HTTP_DDoS__00003_20180604191542.pcap
+Done! Total 6460 flows
+Packets stats: Total=307310,Valid=307307,Discarded=3
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_HTTP\IoT_Dataset_HTTP_DDoS__00004_20180604192319.pcap
+Done! Total 48 flows
+Packets stats: Total=283458,Valid=283445,Discarded=13
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_HTTP\IoT_Dataset_HTTP_DDoS__00005_20180604193113.pcap
+Done! Total 35 flows
+Packets stats: Total=283397,Valid=283395,Discarded=2
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_HTTP\IoT_Dataset_HTTP_DDoS__00006_20180604193907.pcap
+Done! Total 34 flows
+Packets stats: Total=283422,Valid=283419,Discarded=3
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_HTTP\IoT_Dataset_HTTP_DDoS__00007_20180604194700.pcap
+Done! Total 18 flows
+Packets stats: Total=108087,Valid=108087,Discarded=0
+---------------------------------------------------------------------------------------------------------------
+You select: E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP
+Out folder: E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\CSVs
+-------------------------------
+CICFlowMeter found :72 pcap files
+
+
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00001_20180604170103.pcap
+Done! Total 262153 flows
+Packets stats: Total=1391827,Valid=1391810,Discarded=17
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00002_20180604170225.pcap
+Done! Total 262154 flows
+Packets stats: Total=1474569,Valid=1474559,Discarded=10
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00003_20180604170243.pcap
+Done! Total 262153 flows
+Packets stats: Total=1445957,Valid=1445951,Discarded=6
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00004_20180604170258.pcap
+Done! Total 261827 flows
+Packets stats: Total=1556853,Valid=1556829,Discarded=24
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00005_20180604170345.pcap
+Done! Total 262154 flows
+Packets stats: Total=1514328,Valid=1514304,Discarded=24
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00006_20180604170418.pcap
+Done! Total 262154 flows
+Packets stats: Total=1546209,Valid=1546186,Discarded=23
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00007_20180604170501.pcap
+Done! Total 262154 flows
+Packets stats: Total=1473915,Valid=1473903,Discarded=12
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00008_20180604170523.pcap
+Done! Total 262155 flows
+Packets stats: Total=1507814,Valid=1507792,Discarded=22
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00009_20180604170556.pcap
+Done! Total 262154 flows
+Packets stats: Total=1484748,Valid=1484734,Discarded=14
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00010_20180604170621.pcap
+Done! Total 262155 flows
+Packets stats: Total=1493988,Valid=1493968,Discarded=20
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00011_20180604170650.pcap
+Done! Total 262153 flows
+Packets stats: Total=1494840,Valid=1494827,Discarded=13
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00012_20180604170717.pcap
+Done! Total 262154 flows
+Packets stats: Total=1492649,Valid=1492632,Discarded=17
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00013_20180604170744.pcap
+Done! Total 262154 flows
+Packets stats: Total=1510982,Valid=1510961,Discarded=21
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00014_20180604170815.pcap
+Done! Total 262154 flows
+Packets stats: Total=1473186,Valid=1473175,Discarded=11
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00015_20180604170837.pcap
+Done! Total 262154 flows
+Packets stats: Total=1500704,Valid=1500692,Discarded=12
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00016_20180604170906.pcap
+Done! Total 262155 flows
+Packets stats: Total=1481371,Valid=1481361,Discarded=10
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00017_20180604170931.pcap
+Done! Total 262155 flows
+Packets stats: Total=1499678,Valid=1499659,Discarded=19
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00018_20180604171001.pcap
+Done! Total 262154 flows
+Packets stats: Total=1498479,Valid=1498473,Discarded=6
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00019_20180604171030.pcap
+Done! Total 254280 flows
+Packets stats: Total=1520856,Valid=1520842,Discarded=14
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00020_20180604171059.pcap
+Done! Total 262153 flows
+Packets stats: Total=1498053,Valid=1498037,Discarded=16
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00021_20180604171128.pcap
+Done! Total 242645 flows
+Packets stats: Total=1500445,Valid=1500437,Discarded=8
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00022_20180604171151.pcap
+Done! Total 262154 flows
+Packets stats: Total=1528738,Valid=1528726,Discarded=12
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00023_20180604171227.pcap
+Done! Total 262154 flows
+Packets stats: Total=1479290,Valid=1479280,Discarded=10
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00024_20180604171248.pcap
+Done! Total 466188 flows
+Packets stats: Total=1372926,Valid=1372817,Discarded=109
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00025_20180604171328.pcap
+Done! Total 262154 flows
+Packets stats: Total=1314166,Valid=1314100,Discarded=66
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00026_20180604171349.pcap
+Done! Total 262154 flows
+Packets stats: Total=1315000,Valid=1314916,Discarded=84
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00027_20180604171412.pcap
+Done! Total 262151 flows
+Packets stats: Total=1244793,Valid=1244616,Discarded=177
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00028_20180604171507.pcap
+Done! Total 258754 flows
+Packets stats: Total=1259220,Valid=1259058,Discarded=162
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00029_20180604171546.pcap
+Done! Total 262154 flows
+Packets stats: Total=1299431,Valid=1299347,Discarded=84
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00030_20180604171605.pcap
+Done! Total 262154 flows
+Packets stats: Total=1290368,Valid=1290267,Discarded=101
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00031_20180604171630.pcap
+Done! Total 251673 flows
+Packets stats: Total=1282054,Valid=1281943,Discarded=111
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00032_20180604171656.pcap
+Done! Total 262155 flows
+Packets stats: Total=1301168,Valid=1301072,Discarded=96
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00033_20180604171719.pcap
+Done! Total 262155 flows
+Packets stats: Total=1284385,Valid=1284265,Discarded=120
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00034_20180604171747.pcap
+Done! Total 262156 flows
+Packets stats: Total=1305434,Valid=1305338,Discarded=96
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00035_20180604171808.pcap
+Done! Total 262154 flows
+Packets stats: Total=1286323,Valid=1286219,Discarded=104
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00036_20180604171833.pcap
+Done! Total 262154 flows
+Packets stats: Total=1288871,Valid=1288748,Discarded=123
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00037_20180604171901.pcap
+Done! Total 262154 flows
+Packets stats: Total=1298814,Valid=1298738,Discarded=76
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00038_20180604171923.pcap
+Done! Total 262154 flows
+Packets stats: Total=1287134,Valid=1287022,Discarded=112
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00039_20180604171958.pcap
+Done! Total 262154 flows
+Packets stats: Total=1300883,Valid=1300800,Discarded=83
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00040_20180604172018.pcap
+Done! Total 262154 flows
+Packets stats: Total=1279960,Valid=1279834,Discarded=126
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00041_20180604172047.pcap
+Done! Total 262154 flows
+Packets stats: Total=1310200,Valid=1310118,Discarded=82
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00042_20180604172111.pcap
+Done! Total 262154 flows
+Packets stats: Total=1303211,Valid=1303122,Discarded=89
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00043_20180604172135.pcap
+Done! Total 262156 flows
+Packets stats: Total=1279589,Valid=1279464,Discarded=125
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00044_20180604172205.pcap
+Done! Total 262154 flows
+Packets stats: Total=1301593,Valid=1301499,Discarded=94
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00045_20180604172226.pcap
+Done! Total 262154 flows
+Packets stats: Total=1281975,Valid=1281856,Discarded=119
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00046_20180604172255.pcap
+Done! Total 262154 flows
+Packets stats: Total=1303206,Valid=1303107,Discarded=99
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00047_20180604172318.pcap
+Done! Total 262154 flows
+Packets stats: Total=1290233,Valid=1290144,Discarded=89
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00048_20180604172339.pcap
+Done! Total 353797 flows
+Packets stats: Total=1278700,Valid=1278588,Discarded=112
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00049_20180604172424.pcap
+Done! Total 262153 flows
+Packets stats: Total=1271207,Valid=1271172,Discarded=35
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00050_20180604172533.pcap
+Done! Total 262153 flows
+Packets stats: Total=1271687,Valid=1271659,Discarded=28
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00051_20180604172643.pcap
+Done! Total 262159 flows
+Packets stats: Total=1269808,Valid=1269773,Discarded=35
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00052_20180604172753.pcap
+Done! Total 262154 flows
+Packets stats: Total=1273012,Valid=1272988,Discarded=24
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00053_20180604172903.pcap
+Done! Total 262156 flows
+Packets stats: Total=1270197,Valid=1270167,Discarded=30
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00054_20180604173013.pcap
+Done! Total 262153 flows
+Packets stats: Total=1272097,Valid=1272065,Discarded=32
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00055_20180604173122.pcap
+Done! Total 262153 flows
+Packets stats: Total=1282743,Valid=1282712,Discarded=31
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00056_20180604173231.pcap
+Done! Total 262153 flows
+Packets stats: Total=1267851,Valid=1267818,Discarded=33
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00057_20180604173340.pcap
+Done! Total 262154 flows
+Packets stats: Total=1261184,Valid=1261160,Discarded=24
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00058_20180604173450.pcap
+Done! Total 295044 flows
+Packets stats: Total=1251161,Valid=1251080,Discarded=81
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00059_20180604173534.pcap
+Done! Total 262154 flows
+Packets stats: Total=1293180,Valid=1293131,Discarded=49
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00060_20180604173550.pcap
+Done! Total 262154 flows
+Packets stats: Total=1283836,Valid=1283781,Discarded=55
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00061_20180604173611.pcap
+Done! Total 262154 flows
+Packets stats: Total=1272125,Valid=1272039,Discarded=86
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00062_20180604173639.pcap
+Done! Total 262150 flows
+Packets stats: Total=1292510,Valid=1292440,Discarded=70
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00063_20180604173656.pcap
+Done! Total 262155 flows
+Packets stats: Total=1281061,Valid=1280973,Discarded=88
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00064_20180604173718.pcap
+Done! Total 262154 flows
+Packets stats: Total=1275718,Valid=1275622,Discarded=96
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00065_20180604173745.pcap
+Done! Total 262154 flows
+Packets stats: Total=1294111,Valid=1294054,Discarded=57
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00066_20180604173802.pcap
+Done! Total 262154 flows
+Packets stats: Total=1267378,Valid=1267286,Discarded=92
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00067_20180604173832.pcap
+Done! Total 262154 flows
+Packets stats: Total=1286010,Valid=1285933,Discarded=77
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00068_20180604173853.pcap
+Done! Total 262154 flows
+Packets stats: Total=1286745,Valid=1286664,Discarded=81
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00069_20180604173913.pcap
+Done! Total 262154 flows
+Packets stats: Total=1271968,Valid=1271865,Discarded=103
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00070_20180604173939.pcap
+Done! Total 262023 flows
+Packets stats: Total=1288809,Valid=1288728,Discarded=81
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00071_20180604174001.pcap
+Done! Total 262154 flows
+Packets stats: Total=1279448,Valid=1279354,Discarded=94
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_TCP\IoT_Dataset_TCP_DDoS__00072_20180604174023.pcap
+Done! Total 236052 flows
+Packets stats: Total=654026,Valid=653976,Discarded=50
+---------------------------------------------------------------------------------------------------------------
+
+You select: E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP
+Out folder: E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\CSVs
+-------------------------------
+CICFlowMeter found :71 pcap files
+
+
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00001_20180604180103.pcap
+Done! Total 262154 flows
+Packets stats: Total=2339194,Valid=2339174,Discarded=20
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00002_20180604180217.pcap
+Done! Total 262153 flows
+Packets stats: Total=2641872,Valid=2641868,Discarded=4
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00003_20180604180232.pcap
+Done! Total 262153 flows
+Packets stats: Total=2640228,Valid=2640218,Discarded=10
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00004_20180604180247.pcap
+Done! Total 262153 flows
+Packets stats: Total=2634863,Valid=2634858,Discarded=5
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00005_20180604180303.pcap
+Done! Total 262155 flows
+Packets stats: Total=2623074,Valid=2623068,Discarded=6
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00006_20180604180323.pcap
+Done! Total 262154 flows
+Packets stats: Total=2636405,Valid=2636389,Discarded=16
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00007_20180604180341.pcap
+Done! Total 262153 flows
+Packets stats: Total=2635652,Valid=2635649,Discarded=3
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00008_20180604180357.pcap
+Done! Total 262153 flows
+Packets stats: Total=2609666,Valid=2609650,Discarded=16
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00009_20180604180420.pcap
+Done! Total 262153 flows
+Packets stats: Total=2636969,Valid=2636963,Discarded=6
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00010_20180604180436.pcap
+Done! Total 262153 flows
+Packets stats: Total=2636819,Valid=2636807,Discarded=12
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00011_20180604180454.pcap
+Done! Total 262153 flows
+Packets stats: Total=2605485,Valid=2605477,Discarded=8
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00012_20180604180516.pcap
+Done! Total 262153 flows
+Packets stats: Total=2636839,Valid=2636835,Discarded=4
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00013_20180604180534.pcap
+Done! Total 262153 flows
+Packets stats: Total=2637393,Valid=2637381,Discarded=12
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00014_20180604180550.pcap
+Done! Total 262153 flows
+Packets stats: Total=2613411,Valid=2613405,Discarded=6
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00015_20180604180613.pcap
+Done! Total 262153 flows
+Packets stats: Total=2637233,Valid=2637221,Discarded=12
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00016_20180604180630.pcap
+Done! Total 262153 flows
+Packets stats: Total=2637298,Valid=2637294,Discarded=4
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00017_20180604180645.pcap
+Done! Total 262153 flows
+Packets stats: Total=2634554,Valid=2634550,Discarded=4
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00018_20180604180705.pcap
+Done! Total 262153 flows
+Packets stats: Total=2607877,Valid=2607865,Discarded=12
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00019_20180604180729.pcap
+Done! Total 262154 flows
+Packets stats: Total=2636525,Valid=2636518,Discarded=7
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00020_20180604180746.pcap
+Done! Total 262153 flows
+Packets stats: Total=2635956,Valid=2635954,Discarded=2
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00021_20180604180802.pcap
+Done! Total 262153 flows
+Packets stats: Total=2606933,Valid=2606923,Discarded=10
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00022_20180604180826.pcap
+Done! Total 262153 flows
+Packets stats: Total=2635853,Valid=2635851,Discarded=2
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00023_20180604180844.pcap
+Done! Total 262153 flows
+Packets stats: Total=2636178,Valid=2636168,Discarded=10
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00024_20180604180901.pcap
+Done! Total 262153 flows
+Packets stats: Total=2601020,Valid=2601014,Discarded=6
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00025_20180604180926.pcap
+Done! Total 262153 flows
+Packets stats: Total=2635984,Valid=2635974,Discarded=10
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00026_20180604180943.pcap
+Done! Total 262153 flows
+Packets stats: Total=2635294,Valid=2635289,Discarded=5
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00027_20180604181002.pcap
+Done! Total 262153 flows
+Packets stats: Total=2604742,Valid=2604738,Discarded=4
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00028_20180604181024.pcap
+Done! Total 262154 flows
+Packets stats: Total=2636134,Valid=2636126,Discarded=8
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00029_20180604181042.pcap
+Done! Total 262153 flows
+Packets stats: Total=2636649,Valid=2636640,Discarded=9
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00030_20180604181058.pcap
+Done! Total 262153 flows
+Packets stats: Total=2607322,Valid=2607316,Discarded=6
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00031_20180604181121.pcap
+Done! Total 262153 flows
+Packets stats: Total=2636272,Valid=2636267,Discarded=5
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00032_20180604181138.pcap
+Done! Total 262153 flows
+Packets stats: Total=2636129,Valid=2636125,Discarded=4
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00033_20180604181154.pcap
+Done! Total 262153 flows
+Packets stats: Total=2610108,Valid=2610098,Discarded=10
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00034_20180604181220.pcap
+Done! Total 262153 flows
+Packets stats: Total=2634649,Valid=2634645,Discarded=4
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00035_20180604181236.pcap
+Done! Total 262153 flows
+Packets stats: Total=2635928,Valid=2635925,Discarded=3
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00036_20180604181255.pcap
+Done! Total 523745 flows
+Packets stats: Total=2507739,Valid=2507594,Discarded=145
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00037_20180604181339.pcap
+Done! Total 262155 flows
+Packets stats: Total=2506951,Valid=2506792,Discarded=159
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00038_20180604181420.pcap
+Done! Total 262154 flows
+Packets stats: Total=2516909,Valid=2516761,Discarded=148
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00039_20180604181459.pcap
+Done! Total 262154 flows
+Packets stats: Total=2473405,Valid=2473223,Discarded=182
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00040_20180604181548.pcap
+Done! Total 262154 flows
+Packets stats: Total=2487549,Valid=2487380,Discarded=169
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00041_20180604181634.pcap
+Done! Total 262164 flows
+Packets stats: Total=2533022,Valid=2532885,Discarded=137
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00042_20180604181710.pcap
+Done! Total 262157 flows
+Packets stats: Total=2478147,Valid=2477983,Discarded=164
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00043_20180604181759.pcap
+Done! Total 262154 flows
+Packets stats: Total=2486200,Valid=2486022,Discarded=178
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00044_20180604181845.pcap
+Done! Total 262154 flows
+Packets stats: Total=2524885,Valid=2524733,Discarded=152
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00045_20180604181927.pcap
+Done! Total 262154 flows
+Packets stats: Total=2485299,Valid=2485127,Discarded=172
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00046_20180604182012.pcap
+Done! Total 262155 flows
+Packets stats: Total=2470364,Valid=2470170,Discarded=194
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00047_20180604182100.pcap
+Done! Total 262155 flows
+Packets stats: Total=2488788,Valid=2488614,Discarded=174
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00048_20180604182145.pcap
+Done! Total 262154 flows
+Packets stats: Total=2510814,Valid=2510662,Discarded=152
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00049_20180604182225.pcap
+Done! Total 262156 flows
+Packets stats: Total=2477195,Valid=2477009,Discarded=186
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00050_20180604182312.pcap
+Done! Total 262154 flows
+Packets stats: Total=2472278,Valid=2472090,Discarded=188
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00051_20180604182400.pcap
+Done! Total 262434 flows
+Packets stats: Total=2436365,Valid=2436325,Discarded=40
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00052_20180604182454.pcap
+Done! Total 262359 flows
+Packets stats: Total=2480787,Valid=2480769,Discarded=18
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00053_20180604182540.pcap
+Done! Total 262191 flows
+Packets stats: Total=2537476,Valid=2537459,Discarded=17
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00054_20180604182616.pcap
+Done! Total 263373 flows
+Packets stats: Total=2109268,Valid=2109216,Discarded=52
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00055_20180604182814.pcap
+Done! Total 263289 flows
+Packets stats: Total=2085823,Valid=2085769,Discarded=54
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00056_20180604183017.pcap
+Done! Total 263662 flows
+Packets stats: Total=2087182,Valid=2087119,Discarded=63
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00057_20180604183219.pcap
+Done! Total 262879 flows
+Packets stats: Total=2085979,Valid=2085925,Discarded=54
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00058_20180604183421.pcap
+Done! Total 522941 flows
+Packets stats: Total=2313623,Valid=2313456,Discarded=167
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00059_20180604183540.pcap
+Done! Total 262154 flows
+Packets stats: Total=2485415,Valid=2485270,Discarded=145
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00060_20180604183627.pcap
+Done! Total 262154 flows
+Packets stats: Total=2539259,Valid=2539141,Discarded=118
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00061_20180604183702.pcap
+Done! Total 262154 flows
+Packets stats: Total=2485221,Valid=2485077,Discarded=144
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00062_20180604183749.pcap
+Done! Total 262155 flows
+Packets stats: Total=2478888,Valid=2478720,Discarded=168
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00063_20180604183836.pcap
+Done! Total 262154 flows
+Packets stats: Total=2535861,Valid=2535737,Discarded=124
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00064_20180604183913.pcap
+Done! Total 262154 flows
+Packets stats: Total=2487323,Valid=2487171,Discarded=152
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00065_20180604183958.pcap
+Done! Total 262154 flows
+Packets stats: Total=2475062,Valid=2474896,Discarded=166
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00066_20180604184045.pcap
+Done! Total 262154 flows
+Packets stats: Total=2512132,Valid=2511987,Discarded=145
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00067_20180604184126.pcap
+Done! Total 262154 flows
+Packets stats: Total=2506302,Valid=2506154,Discarded=148
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00068_20180604184208.pcap
+Done! Total 262154 flows
+Packets stats: Total=2473284,Valid=2473119,Discarded=165
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00069_20180604184255.pcap
+Done! Total 262154 flows
+Packets stats: Total=2490553,Valid=2490396,Discarded=157
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00070_20180604184340.pcap
+Done! Total 262121 flows
+Packets stats: Total=1394884,Valid=1394798,Discarded=86
+---------------------------------------------------------------------------------------------------------------
+Working on... E:\DDoS-Datasets\Bot-IoT Dataset (By UNSW)\DDoS\DDoS\DDoS_UDP\IoT_Dataset_UDP_DDoS__00071_20180604184757.pcap
+Done! Total 9 flows
+Packets stats: Total=74124,Valid=74122,Discarded=2
+---------------------------------------------------------------------------------------------------------------
